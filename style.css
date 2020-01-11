@@ -45,6 +45,9 @@
         margin: 20px;
         letter-spacing: 1px;
     }
+    .lightgray {
+        color: lightgray;
+    }
     #bio {
         font-size: small;
         color: rgb(206, 206, 206);
